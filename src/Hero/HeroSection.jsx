@@ -24,7 +24,7 @@ function HeroSection() {
 			<div className="main-hero-section max-w-5xl flex flex-col gap-y-2 items-center justify-center mx-auto py-14 px-10 md:px-10 xl:px-0">
 				<div className="hero-content lg:px-5 flex flex-col gap-y-5">
 					<p className="tag mx-auto text-white text-center font-semibold text-sm">
-						Meet the best product designers in Poland
+						Meet the best website designers in Europe
 					</p>
 					<h1 className="text-4xl text-black md:text-5xl xl:text-[60px] leading-[1.2] md:max-w-xl mx-auto text-center lg:max-w-3xl font-bold">
 						Get your designs delivered to you FAST!
